@@ -1,0 +1,9 @@
+C:\Users\spect\RiderProjects\Pac-ManV4\Pac-ManV4\bin\Debug\Pac_ManV4.exe.config
+C:\Users\spect\RiderProjects\Pac-ManV4\Pac-ManV4\bin\Debug\Pac_ManV4.exe
+C:\Users\spect\RiderProjects\Pac-ManV4\Pac-ManV4\bin\Debug\Pac_ManV4.pdb
+C:\Users\spect\RiderProjects\Pac-ManV4\Pac-ManV4\obj\Debug\Pac-ManV4.csproj.AssemblyReference.cache
+C:\Users\spect\RiderProjects\Pac-ManV4\Pac-ManV4\obj\Debug\Pac_ManV4.Properties.Resources.resources
+C:\Users\spect\RiderProjects\Pac-ManV4\Pac-ManV4\obj\Debug\Pac-ManV4.csproj.GenerateResource.cache
+C:\Users\spect\RiderProjects\Pac-ManV4\Pac-ManV4\obj\Debug\Pac-ManV4.csproj.CoreCompileInputs.cache
+C:\Users\spect\RiderProjects\Pac-ManV4\Pac-ManV4\obj\Debug\Pac_ManV4.exe
+C:\Users\spect\RiderProjects\Pac-ManV4\Pac-ManV4\obj\Debug\Pac_ManV4.pdb
